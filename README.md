@@ -3,9 +3,9 @@ Reinforcement Learning with [Unity ML-Agents Toolkit](https://github.com/Unity-T
 
 use PPO and self-play
 
-[Executable file](https://github.com/Nagisa3113/Pong/releases)
+Download: [Executable file](https://github.com/Nagisa3113/Pong/releases)
 
-![pong](pong.gif)
+![pong](Pong.gif)
 
 
 ## Train 
@@ -16,4 +16,4 @@ mlagents-learn config/pong.yaml --run-id=pong
 
 
 - config file: config/pong.yaml
-- result: results/pong
+- result file: results/pong
