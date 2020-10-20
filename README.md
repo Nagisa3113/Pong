@@ -3,6 +3,11 @@ Reinforcement Learning with [Unity ML-Agents Toolkit](https://github.com/Unity-T
 
 use PPO and self-play
 
+[Executable file](https://github.com/Nagisa3113/Pong/releases)
+
+![pong](pong.gif)
+
+
 ## Train 
 
 ```
