@@ -1,0 +1,2 @@
+model_checkpoint_path: "Pong-352077.ckpt"
+all_model_checkpoint_paths: "Pong-352077.ckpt"
